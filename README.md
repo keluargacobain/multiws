@@ -1,10 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=A+J+I+K+C+O+B+A+I+N" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=A+J+I+K+C+O+B+A+I+N" /></p>
 
-<h3 align="center">AUTOSCRIPT INSTALL SSH & OpenVPN & V2RAYXRAY & SHADOWSOCKS GRPC & TROJAN WS x GRPC & VMESS GRPC & VLESS GRPC VPS BY <p align="center">
+<h3 align="center">AUTOSCRIPT PREMIUM
 
 <a href="#"><img title="AJIKCOBAIN" src="https://img.shields.io/badge/AJIKCOBAIN-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-</p> <img src="https://img.shields.io/badge/Version-6.6.6-cyan.svg"></h2>
+</p> <img src="https://img.shields.io/badge/Version-1.0-cyan.svg"></h2>
 
 <h3 align="center"> Supported Linux Distribution</h2>
 

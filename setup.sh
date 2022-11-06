@@ -335,8 +335,8 @@ echo "   - Backup & Restore Data" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "   >>> About " | tee -a log-install.txt
-echo "   - Script Presented By      : AJIKCOBAIN" | tee -a log-install.txt" | tee -a log-install.txt
-echo "   - Contact (Only Text)      : t.me/ajikcobain" | tee -a log-install.txt" | tee -a log-install.txt
+echo "   - Script Presented By      : AJIKCOBAIN" | tee -a log-install.txt
+echo "   - Contact (Only Text)       : t.me/ajikcobain" | tee -a log-install.txt
 echo "------------------------------------------------------------"
 echo ""
 echo "=============-[ AJIKCOBAIN TEAM ]-==============="

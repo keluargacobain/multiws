@@ -129,8 +129,8 @@ mv /root/$NameUser.zip /root/user-backup/$NameUser/
 Save_And_Exit () {
     DATE=$(date +'%d %B %Y')
     cd /root/user-backup
-    git config --global user.email "jakelarson443@gmail.com &> /dev/null
-    git config --global user.name "keluargacobain" &> /dev/null
+    git config --global user.email "jakelarson443@gmail.com" &> /dev/null
+    git config --global user.name "cobainteam" &> /dev/null
     rm -rf .git &> /dev/null
     git init &> /dev/null
     git add . &> /dev/null
